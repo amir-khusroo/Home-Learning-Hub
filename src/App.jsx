@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-        <div>home learning hub for tutor</div>  
+        <div>home learning hub is the best website</div>   
     </>
   )
 }
