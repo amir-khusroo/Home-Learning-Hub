@@ -10,6 +10,7 @@ function App() {
     <>
         <h1>home learning hub</h1>
         <p>This plateform is used to connect home totur</p>   
+        <p>and help the student for study</p>   
     </>
   )
 }
