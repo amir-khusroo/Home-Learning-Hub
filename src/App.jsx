@@ -8,7 +8,8 @@ function App() {
 
   return (
     <>
-        <div>home learning hub</div>   
+        <h1>home learning hub</h1>
+        <p>This plateform is used to connect home totur</p>   
     </>
   )
 }
